@@ -1,0 +1,9 @@
+# dotenv environment variables file
+/.env
+/.env.test
+
+# Next.js build output
+/.next
+
+# dependencies
+/node_modules
